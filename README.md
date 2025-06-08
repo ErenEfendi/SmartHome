@@ -1,4 +1,4 @@
-# capstone-project
+# A capstone project about SmartHome
 
 
 ## Firebase Kurulumu
