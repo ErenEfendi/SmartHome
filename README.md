@@ -18,8 +18,7 @@ Firebase'i projenize entegre etmek için:
 Aşağıda bu projeye ait Firebase Realtime Database yapısının örneği yer almaktadır:
 
 ![image](https://github.com/user-attachments/assets/a8d77085-b416-4a9a-bd7b-60a0cf268aa7)
-![image](https://github.com/user-attachments/assets/b0c0a283-0d5e-4575-bae1-68d6a7565a65)
-
+![image](https://github.com/user-attachments/assets/146544fd-c868-4b31-b2e6-c4bff44bc201)
 
 
 
