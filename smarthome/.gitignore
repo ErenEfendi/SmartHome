@@ -45,4 +45,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+assets/accessToken.json
 lib/firebase_options.dart
