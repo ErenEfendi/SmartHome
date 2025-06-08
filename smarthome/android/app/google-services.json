@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "127404149812",
+    "firebase_url": "https://capstone-bau-2025-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "capstone-bau-2025",
+    "storage_bucket": "capstone-bau-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127404149812:android:60c53da2b6e0a063858e61",
+        "android_client_info": {
+          "package_name": "com.capstone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127404149812-fjt59ao5ppoh79n8cvf16mgevi4e1k7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVt5ZgOnYjOqB_6NylYApnSyduuD_0vrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127404149812-fjt59ao5ppoh79n8cvf16mgevi4e1k7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127404149812-m37338somcfntael437dkutael36fv33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smarthomeCapstone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127404149812:android:52517f0178c1ab88858e61",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127404149812-fjt59ao5ppoh79n8cvf16mgevi4e1k7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVt5ZgOnYjOqB_6NylYApnSyduuD_0vrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127404149812-fjt59ao5ppoh79n8cvf16mgevi4e1k7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127404149812-m37338somcfntael437dkutael36fv33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smarthomeCapstone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

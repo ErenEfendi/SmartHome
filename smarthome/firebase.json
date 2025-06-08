@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "capstone-bau-2025",
+          "appId": "1:127404149812:android:60c53da2b6e0a063858e61",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "capstone-bau-2025",
+          "configurations": {
+            "android": "1:127404149812:android:60c53da2b6e0a063858e61",
+            "ios": "1:127404149812:ios:826d80aa58d168db858e61",
+            "macos": "1:127404149812:ios:826d80aa58d168db858e61",
+            "web": "1:127404149812:web:97c1840a64f76463858e61",
+            "windows": "1:127404149812:web:5fbd01b8ffa47204858e61"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ]
+}
