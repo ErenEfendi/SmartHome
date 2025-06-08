@@ -21,11 +21,9 @@ Aşağıda bu projeye ait Firebase Realtime Database yapısının örneği yer a
 ![image](https://github.com/user-attachments/assets/146544fd-c868-4b31-b2e6-c4bff44bc201)
 
 
-
 ### Firebase Messaging
 Bu projede Firebase Cloud Messaging (FCM) kullanılmıştır.
 
-![FCM Ayarları] 
 ![image](https://github.com/user-attachments/assets/55d66f54-c9c5-4234-9254-014dc7ef612a)
 
 
