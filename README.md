@@ -18,10 +18,11 @@ To integrate Firebase into your project:
    flutterfire configure
 
 
-## 🔥 Firebase Yapısı
+## Firebase Structure
 
 ### Realtime Database
-Aşağıda bu projeye ait Firebase Realtime Database yapısının örneği yer almaktadır:
+
+Below is an example of the Firebase Realtime Database structure used in this project:
 
 ![image](https://github.com/user-attachments/assets/a8d77085-b416-4a9a-bd7b-60a0cf268aa7)
 ![image](https://github.com/user-attachments/assets/146544fd-c868-4b31-b2e6-c4bff44bc201)
