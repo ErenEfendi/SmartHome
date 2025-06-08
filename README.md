@@ -6,6 +6,7 @@
 Bu proje Firebase kullanmaktadır. `firebase_options.dart`, `GoogleService-Info.plist` ve `google-services.json`  dosyaları güvenlik nedeniyle paylaşılmamaktadır.
 
 Firebase Console üzerinden Android uygulaması oluşturup bu dosyayı indirmeniz gerekmektedir.
+
 Firebase Console üzerinden iOS uygulaması tanımlayıp kendi `.plist` dosyanızı indirmeniz gerekmektedir.
 
 
