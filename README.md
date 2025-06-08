@@ -3,7 +3,10 @@
 
 ## Firebase Kurulumu
 
-Bu proje Firebase kullanmaktadır. `firebase_options.dart` dosyası güvenlik nedeniyle paylaşılmamaktadır.
+Bu proje Firebase kullanmaktadır. `firebase_options.dart`, `GoogleService-Info.plist` ve `google-services.json`  dosyaları güvenlik nedeniyle paylaşılmamaktadır.
+Firebase Console üzerinden Android uygulaması oluşturup bu dosyayı indirmeniz gerekmektedir.
+Firebase Console üzerinden iOS uygulaması tanımlayıp kendi `.plist` dosyanızı indirmeniz gerekmektedir.
+
 
 Firebase'i projenize entegre etmek için:
 1. [FlutterFire CLI](https://firebase.flutter.dev/docs/cli/) kurulumunu yapın.
