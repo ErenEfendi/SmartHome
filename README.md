@@ -29,7 +29,7 @@ Below is an example of the Firebase Realtime Database structure used in this pro
 
 
 ### Firebase Messaging
-Bu projede Firebase Cloud Messaging (FCM) kullanılmıştır.
+Firebase Cloud Messaging (FCM) is used in this project.
 
 ![image](https://github.com/user-attachments/assets/55d66f54-c9c5-4234-9254-014dc7ef612a)
 
