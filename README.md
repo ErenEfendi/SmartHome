@@ -1,18 +1,19 @@
 # Capstone Project about SmartHome Mobile App
 
 
-## Firebase Kurulumu
+## Firebase Setup
 
-Bu proje Firebase kullanmaktadır. `firebase_options.dart`, `GoogleService-Info.plist` ve `google-services.json`  dosyaları güvenlik nedeniyle paylaşılmamaktadır.
+This project uses Firebase. The files `firebase_options.dart`, `GoogleService-Info.plist`, and `google-services.json` are not shared for security reasons.
 
-Firebase Console üzerinden Android uygulaması oluşturup bu dosyayı indirmeniz gerekmektedir.
+You need to create an Android application in the Firebase Console and download the corresponding file yourself.
 
-Firebase Console üzerinden iOS uygulaması tanımlayıp kendi `.plist` dosyanızı indirmeniz gerekmektedir.
+You also need to register an iOS application in the Firebase Console and download your own `.plist` file.
 
 
-Firebase'i projenize entegre etmek için:
-1. [FlutterFire CLI](https://firebase.flutter.dev/docs/cli/) kurulumunu yapın.
-2. Aşağıdaki komutu çalıştırın:
+To integrate Firebase into your project:
+
+1. [Install the FlutterFire CLI](https://firebase.flutter.dev/docs/cli/).
+2. Run the following command:
    ```bash
    flutterfire configure
 
