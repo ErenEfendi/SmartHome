@@ -34,3 +34,6 @@ Firebase Cloud Messaging (FCM) is used in this project.
 ![image](https://github.com/user-attachments/assets/55d66f54-c9c5-4234-9254-014dc7ef612a)
 
 
+for the webservice for gasLevel alert I used render with a self-ping script
+
+<img width="2482" height="992" alt="image" src="https://github.com/user-attachments/assets/3cc5c0d3-24cf-4e10-84ca-f8454dfd96bf" />
