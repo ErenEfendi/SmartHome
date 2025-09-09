@@ -7,7 +7,7 @@ const serviceAccount = require("./accessToken.json");
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    databaseURL: "https://capstone-bau-2025-default-rtdb.europe-west1.firebasedatabase.app"
+    databaseURL: "***********************.firebasedatabase.app" //change here
 });
 
 const app = express();
@@ -84,7 +84,7 @@ app.get("/", (req, res) => {
 
 // Keep-Alive Request (every 4 minutes)
 setInterval(() => {
-    axios.get(`https://webservice-s7ta.onrender.com/`)
+    axios.get(`*************/`) //put your webservice link here
         .then(() => console.log("💓 Keep-alive ping sent to server"))
         .catch((err) => console.error("❌ Keep-alive ping failed:", err.message));
 }, 210000); // 4 minutes (240,000 ms)
